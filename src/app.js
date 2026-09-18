@@ -54,15 +54,15 @@ function menuView() {
   <div class="shell">
     <div class="hero">
       <div class="kicker">Juego de programación</div>
-      <h1>LuzBot</h1>
-      <p class="lede">Escribe un programa con bloques para que el robot recorra el mapa y encienda cada lámpara. Incluye una campaña y un editor de niveles.</p>
+      <h1>IngecitoBot</h1>
+      <p class="lede">Escribe un programa con bloques para que el ingeniero robot recorra el mapa y encienda cada foco. Este juego incluye una campaña y un editor de niveles.</p>
       <div class="row">
         <button class="btn primary" data-go="select">Jugar campaña</button>
         <button class="btn" data-go="custom">Mis niveles</button>
         <button class="btn" data-go="editor-new">Editor de niveles</button>
       </div>
     </div>
-    <p class="footer-note">Avanzar mantiene la altura. Saltar cambia exactamente un nivel. Luz conmuta la lámpara de la baldosa actual.</p>
+    <p class="footer-note">Avanzar mantiene la altura. Saltar cambia exactamente un nivel. Luz cambia el foco de la baldosa actual.</p>
   </div>`;
 }
 
